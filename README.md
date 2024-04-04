@@ -1,2 +1,2 @@
 # inbox-icon-for-github
-Shortcut Icon of GitHub Notifications with unread badge
+A browser extention shows shortcut icon of GitHub Notifications with unread badge.
