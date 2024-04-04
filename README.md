@@ -1,2 +1,2 @@
 # Inbox icon for GitHub
-A browser extention shows shortcut icon of GitHub Notifications with unread badge.
+A browser extention to display shortcut icon of GitHub Notifications with unread badge.
